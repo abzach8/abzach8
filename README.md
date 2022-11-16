@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abzach8
-- 👀 I’m only interested in publishing brand new content
+- 👀 I’m interested in publishing new content
 - 🌱 I’m currently learning how to use this platform
 - 💞️ I’m looking to collaborate on Cyber security projects
 - 📫 How to reach me - Email abbiazak@outlook.in
