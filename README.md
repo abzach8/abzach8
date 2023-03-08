@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abzach8
-- 👀 I’m interested in publishing new content
-- 🌱 I’m currently learning how to use this platform
-- 💞️ I’m looking to collaborate on Cyber security projects
+- 👀 I’m interested in publishing code and articles on missing contents
+- 🌱 I’m looking to collaborate on DevOps projects
 - 📫 How to reach me - Email abbiazak@outlook.in
 
 <!---
